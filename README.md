@@ -22,8 +22,4 @@ A beginner-friendly website created with **HTML**, **CSS**, and **JavaScript**. 
 
 To view the project:
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/project-name.git
 
-# Open index.html in your browser
